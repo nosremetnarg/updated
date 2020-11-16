@@ -29,6 +29,11 @@ const PhotoList = ({ category }) => {
       description: 'A social media app geared towards connection in the context of conversation and mental health.',
     },
     {
+      name: 'RoystersNC',
+      category: 'fullStack',
+      description: 'A fullStack website build for my fathers oyster farm',
+    },
+    {
       name: 'Resume',
       category: 'resume',
       description: 'Cheers',
